@@ -1,1 +1,1 @@
-# html_css_project
+# 코딩애플 html/css 강의
